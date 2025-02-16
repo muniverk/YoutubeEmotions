@@ -1,9 +1,6 @@
 """
 ******************************
-CS 1026 - Assignment #3– Youtube Emotions
 Code by: Muniver Kaur Kharod
-Student ID: mkharod2
-File created: November 15, 2024
 ******************************
 This file contains the main program logic for YouTube Emotion analysis.
 """
