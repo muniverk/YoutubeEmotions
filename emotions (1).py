@@ -1,9 +1,6 @@
 """
 ******************************
-CS 1026 - Assignment #3 – YouTube Emotions
 Code by: Muniver Kaur Kharod
-Student ID: mkharod2
-File created: November 15, 2024
 ******************************
 This file contains functions for text processing and emotion analysis.
 """
